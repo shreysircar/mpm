@@ -1,0 +1,14 @@
+abc,fgusg,efguew,300,0,Pop,0,2
+abc,fgusg,efguew,300,0,Pop,0,2
+abc,fgusg,efguew,300,0,Pop,0,2
+abc,fgusg,efguew,300,0,Pop,0,2
+Leave the Door Open,Bruno Mars,Silk Sonic,500,1,R&B,5,2
+Raabta,Arijit Singh,Agent Vinod,350,0,Romantic,0,2
+Shape of You,Ed Sheeran,Divide,233,0,Pop,0,2
+Blinding Lights,The Weeknd,After Hours,200,0,Pop,0,2
+Tum Hi Ho,Arijit Singh,Aashiqui 2,480,0,Romantic,0,1
+Uptown Funk,Mark Ronson,Uptown Special,270,0,Funk,0,1
+Tum Jo Aaye,Rahat Fateh Ali Khan,Once Upon a Time in Mumbai,300,0,Bollywood,0,1
+Senorita,Shahid Mallya,Zindagi Na Milegi Dobara,330,0,Bollywood,0,1
+Kesariya,Arijit Singh,Brahmastra,350,0,Bollywood,0,1
+Cold Heart,Elton John,The Lockdown Sessions,240,0,Pop,0,1
